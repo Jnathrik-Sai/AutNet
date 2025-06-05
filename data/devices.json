@@ -1,0 +1,22 @@
+[
+  {
+    "hostname": "docker-switch3",
+    "ip": "127.0.0.1",
+    "port": 22220,
+    "username": "admin",
+    "password": "cisco123",
+    "device_type": "generic_ssh",
+    "group": "docker-test",
+    "tags": ["testing", "docker"]
+  },
+  {
+    "hostname": "docker-switch4",
+    "ip": "127.0.0.1",
+    "port": 22230,
+    "username": "admin",
+    "password": "jun1per123",
+    "device_type": "juniper_junos",
+    "group": "docker-test",
+    "tags": ["testing", "docker"]
+  }
+]

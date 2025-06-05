@@ -1,0 +1,39 @@
+version: '3'
+services:
+  switch1:
+    image: lscr.io/linuxserver/openssh-server:latest
+    container_name: switch1
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=UTC
+      - USER_NAME=admin
+      - USER_PASSWORD=cisco123
+      - PASSWORD_ACCESS=true
+    ports:
+      - "22220:2222"
+    networks:
+      net:
+        ipv4_address: 172.20.0.2
+
+  switch2:
+    image: lscr.io/linuxserver/openssh-server:latest
+    container_name: switch2
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=UTC
+      - USER_NAME=admin
+      - USER_PASSWORD=jun1per123
+      - PASSWORD_ACCESS=true
+    ports:
+      - "22230:2222"
+    networks:
+      net:
+        ipv4_address: 172.20.0.3
+
+networks:
+  net:
+    ipam:
+      config:
+        - subnet: 172.20.0.0/24

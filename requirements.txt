@@ -1,0 +1,8 @@
+PyQt5==5.15.10
+netmiko==4.2.0
+paramiko==3.4.0
+jinja2==3.1.3
+cryptography==42.0.5
+pysnmp==4.4.12
+networkx==3.3
+pyinstaller

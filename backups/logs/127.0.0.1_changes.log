@@ -1,0 +1,12 @@
+=== 20250605_123612 ===
+Device: docker-switch3 (127.0.0.1)
+Configuration:
+echo "Hello, ajsai! This is a test from your SSH client."
+date
+
+=== 20250605_123613 ===
+Device: docker-switch4 (127.0.0.1)
+Configuration:
+echo "Hello, ajsai! This is a test from your SSH client."
+date
+

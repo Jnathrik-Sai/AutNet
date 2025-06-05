@@ -1,0 +1,832 @@
+2025-06-04 00:57:29,939 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 00:57:30,203 - INFO - Authentication (password) successful!
+2025-06-04 01:01:19,819 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:01:20,054 - INFO - Authentication (password) successful!
+2025-06-04 01:10:33,686 - ERROR - [SSH Test Error] 192.168.1.4: timed out
+2025-06-04 01:10:57,874 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:10:58,107 - INFO - Authentication (password) successful!
+2025-06-04 01:13:54,670 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:13:54,904 - INFO - Authentication (password) successful!
+2025-06-04 01:17:56,089 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:17:56,325 - INFO - Authentication (password) successful!
+2025-06-04 01:18:47,398 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:18:47,630 - INFO - Authentication (password) successful!
+2025-06-04 01:22:39,865 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:22:40,097 - INFO - Authentication (password) successful!
+2025-06-04 01:24:56,346 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:24:56,580 - INFO - Authentication (password) successful!
+2025-06-04 01:26:37,744 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:26:37,976 - INFO - Authentication (password) successful!
+2025-06-04 01:28:36,988 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:28:37,220 - INFO - Authentication (password) successful!
+2025-06-04 01:29:00,436 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:29:00,668 - INFO - Authentication (password) successful!
+2025-06-04 01:29:20,859 - ERROR - [SSH Error] 127.0.0.1: 
+
+Pattern not detected: '(\\#|>)' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+2025-06-04 01:29:39,016 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:29:39,249 - INFO - Authentication (password) successful!
+2025-06-04 01:29:56,899 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:29:57,131 - INFO - Authentication (password) successful!
+2025-06-04 01:30:17,315 - ERROR - [SSH Error] 127.0.0.1: 
+
+Pattern not detected: '(\\#|>)' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+2025-06-04 01:38:09,946 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:38:10,178 - INFO - Authentication (password) successful!
+2025-06-04 01:38:10,179 - INFO - [SSH Test Success] 127.0.0.1
+2025-06-04 01:38:32,050 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:38:32,283 - INFO - Authentication (password) successful!
+2025-06-04 01:38:52,469 - ERROR - [SSH Error] 127.0.0.1: 
+
+Pattern not detected: '(\\#|>)' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+2025-06-04 01:44:02,868 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:44:03,102 - INFO - Authentication (password) successful!
+2025-06-04 01:44:03,103 - INFO - [SSH Test Success] 127.0.0.1
+2025-06-04 01:44:27,083 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:44:27,317 - INFO - Authentication (password) successful!
+2025-06-04 01:44:27,317 - INFO - [+] Paramiko connected to 127.0.0.1
+2025-06-04 01:44:27,337 - INFO - [Commands Sent - Paramiko] 127.0.0.1
+2025-06-04 01:44:27,338 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 01:44:59,904 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:45:00,137 - INFO - Authentication (password) successful!
+2025-06-04 01:45:00,138 - INFO - [+] Paramiko connected to 127.0.0.1
+2025-06-04 01:45:00,156 - INFO - [Commands Sent - Paramiko] 127.0.0.1
+2025-06-04 01:45:00,157 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 01:47:17,009 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:47:17,243 - INFO - Authentication (password) successful!
+2025-06-04 01:47:17,244 - INFO - [+] Paramiko connected to 127.0.0.1
+2025-06-04 01:47:17,262 - INFO - [Commands Sent - Paramiko] 127.0.0.1
+2025-06-04 01:47:17,263 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 01:48:27,426 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:48:27,659 - INFO - Authentication (password) successful!
+2025-06-04 01:48:27,659 - INFO - [+] Paramiko connected to 127.0.0.1
+2025-06-04 01:51:40,498 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:51:40,730 - INFO - Authentication (password) successful!
+2025-06-04 01:51:40,731 - INFO - [+] Paramiko connected to 127.0.0.1
+2025-06-04 01:51:40,750 - INFO - [Commands Sent - Paramiko] 127.0.0.1
+2025-06-04 01:51:40,751 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 01:51:54,815 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:51:55,048 - INFO - Authentication (password) successful!
+2025-06-04 01:51:55,048 - INFO - [+] Paramiko connected to 127.0.0.1
+2025-06-04 01:51:55,048 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 01:57:09,016 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:57:09,251 - INFO - Authentication (password) successful!
+2025-06-04 01:57:09,251 - INFO - [+] Paramiko connected to 127.0.0.1
+2025-06-04 01:57:09,271 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-04 01:57:09,272 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 01:57:23,858 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:57:24,092 - INFO - Authentication (password) successful!
+2025-06-04 01:57:24,092 - INFO - [+] Paramiko connected to 127.0.0.1
+2025-06-04 01:57:24,107 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: zsh:1: command not found: show
+2025-06-04 01:57:24,107 - INFO - [Command - Paramiko] 127.0.0.1: show version
+2025-06-04 01:57:24,108 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 01:58:17,709 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 01:58:17,942 - INFO - Authentication (password) successful!
+2025-06-04 01:58:17,943 - INFO - [+] Paramiko connected to 127.0.0.1
+2025-06-04 01:58:17,955 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: zsh:1: unknown file attribute: h
+2025-06-04 01:58:17,955 - INFO - [Command - Paramiko] 127.0.0.1: client.run_command("whoami")
+2025-06-04 01:58:17,956 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 02:02:36,861 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 02:02:37,097 - INFO - Authentication (password) successful!
+2025-06-04 02:02:37,097 - INFO - [+] Paramiko connected to 127.0.0.1
+2025-06-04 02:02:37,116 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-04 02:02:37,116 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 02:03:10,419 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 02:03:10,650 - INFO - Authentication (password) successful!
+2025-06-04 02:03:10,650 - INFO - [+] Paramiko connected to 127.0.0.1
+2025-06-04 02:03:10,668 - INFO - [Command - Paramiko] 127.0.0.1: bash -c 'whoami'
+2025-06-04 02:03:10,669 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 15:26:49,120 - ERROR - [Paramiko SSH Error] localhost: [Errno None] Unable to connect to port 2221 on 127.0.0.1 or ::1
+2025-06-04 15:26:49,122 - ERROR - [Paramiko SSH Error] localhost: [Errno None] Unable to connect to port 2222 on 127.0.0.1 or ::1
+2025-06-04 15:43:18,564 - INFO - Connected (version 2.0, client OpenSSH_8.2p1)
+2025-06-04 15:43:18,940 - INFO - Authentication (publickey) failed.
+2025-06-04 15:43:21,725 - INFO - Authentication (password) failed.
+2025-06-04 15:43:21,725 - ERROR - [Paramiko SSH Error] localhost: Authentication failed.
+2025-06-04 15:43:21,747 - INFO - Connected (version 2.0, client OpenSSH_8.2p1)
+2025-06-04 15:43:22,128 - INFO - Authentication (publickey) failed.
+2025-06-04 15:43:24,911 - INFO - Authentication (password) failed.
+2025-06-04 15:43:24,912 - ERROR - [Paramiko SSH Error] localhost: Authentication failed.
+2025-06-04 16:17:15,015 - ERROR - [Netmiko Timeout] 172.20.0.2: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.20.0.2:22
+
+
+2025-06-04 16:17:25,024 - ERROR - [Paramiko SSH Error] 172.20.0.3: timed out
+2025-06-04 16:27:36,810 - ERROR - [Netmiko Timeout] 172.20.0.2: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.20.0.2:22
+
+
+2025-06-04 16:42:00,416 - ERROR - [Netmiko Timeout] 172.20.0.2: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.20.0.2:22220
+
+
+2025-06-04 16:42:10,423 - ERROR - [Paramiko SSH Error] 172.20.0.3: timed out
+2025-06-04 16:43:30,999 - ERROR - [Netmiko Timeout] 172.20.0.2: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.20.0.2:22220
+
+
+2025-06-04 17:17:08,049 - ERROR - [Netmiko Timeout] 172.20.0.2: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.20.0.2:22220
+
+
+2025-06-04 17:17:18,065 - ERROR - [Paramiko SSH Error] 172.20.0.3: timed out
+2025-06-04 17:18:04,041 - ERROR - [Netmiko Timeout] 172.20.0.2: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.20.0.2:22220
+
+
+2025-06-04 17:35:38,667 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 17:35:38,696 - INFO - Authentication (password) successful!
+2025-06-04 17:35:58,913 - ERROR - [Netmiko SSH Error] 127.0.0.1: 
+
+Pattern not detected: '(\\#|>)' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+2025-06-04 17:36:14,412 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 17:36:14,435 - INFO - Authentication (password) successful!
+2025-06-04 17:36:34,662 - ERROR - [Netmiko SSH Error] 127.0.0.1: 
+
+Pattern not detected: '(\\#|>)' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+2025-06-04 17:36:34,683 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 17:36:35,053 - INFO - Authentication (publickey) failed.
+2025-06-04 17:36:35,064 - INFO - Authentication (password) successful!
+2025-06-04 17:36:35,064 - INFO - [+] Paramiko connected to 127.0.0.1 (juniper_junos)
+2025-06-04 17:36:36,132 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-04 17:36:36,132 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 17:37:09,442 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 17:37:09,806 - INFO - Authentication (publickey) failed.
+2025-06-04 17:37:09,815 - INFO - Authentication (password) successful!
+2025-06-04 17:37:09,815 - INFO - [+] Paramiko connected to 127.0.0.1 (juniper_junos)
+2025-06-04 17:37:10,881 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-04 17:37:10,882 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 17:41:28,705 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 17:41:29,086 - INFO - Authentication (publickey) failed.
+2025-06-04 17:41:29,099 - INFO - Authentication (password) successful!
+2025-06-04 17:41:29,099 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-04 17:41:30,166 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-04 17:41:30,167 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 17:41:49,031 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 17:41:49,391 - INFO - Authentication (publickey) failed.
+2025-06-04 17:41:49,404 - INFO - Authentication (password) successful!
+2025-06-04 17:41:49,404 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-04 17:41:50,473 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-04 17:41:50,474 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 17:41:50,497 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 17:41:50,873 - INFO - Authentication (publickey) failed.
+2025-06-04 17:41:50,884 - INFO - Authentication (password) successful!
+2025-06-04 17:41:50,884 - INFO - [+] Paramiko connected to 127.0.0.1 (juniper_junos)
+2025-06-04 17:41:51,950 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-04 17:41:51,951 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 17:44:17,662 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 17:44:18,026 - INFO - Authentication (publickey) failed.
+2025-06-04 17:44:18,038 - INFO - Authentication (password) successful!
+2025-06-04 17:44:18,038 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-04 17:44:18,096 - INFO - [Command - Paramiko] 127.0.0.1: uname -a
+2025-06-04 17:44:18,096 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 17:44:18,112 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 17:44:18,465 - INFO - Authentication (publickey) failed.
+2025-06-04 17:44:18,475 - INFO - Authentication (password) successful!
+2025-06-04 17:44:18,475 - INFO - [+] Paramiko connected to 127.0.0.1 (juniper_junos)
+2025-06-04 17:44:18,525 - INFO - [Command - Paramiko] 127.0.0.1: uname -a
+2025-06-04 17:44:18,525 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 17:45:05,160 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 17:45:05,528 - INFO - Authentication (publickey) failed.
+2025-06-04 17:45:05,539 - INFO - Authentication (password) successful!
+2025-06-04 17:45:05,540 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-04 17:45:05,590 - INFO - [Command - Paramiko] 127.0.0.1: whoami
+2025-06-04 17:45:05,590 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-04 17:45:05,600 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-04 17:45:05,955 - INFO - Authentication (publickey) failed.
+2025-06-04 17:45:05,965 - INFO - Authentication (password) successful!
+2025-06-04 17:45:05,965 - INFO - [+] Paramiko connected to 127.0.0.1 (juniper_junos)
+2025-06-04 17:45:06,016 - INFO - [Command - Paramiko] 127.0.0.1: whoami
+2025-06-04 17:45:06,017 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 00:02:10,138 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 00:02:10,511 - INFO - Authentication (publickey) failed.
+2025-06-05 00:02:10,523 - INFO - Authentication (password) failed.
+2025-06-05 00:02:10,523 - ERROR - [Paramiko SSH Error] 127.0.0.1: Authentication failed.
+2025-06-05 00:02:10,532 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 00:02:10,882 - INFO - Authentication (publickey) failed.
+2025-06-05 00:02:10,892 - INFO - Authentication (password) failed.
+2025-06-05 00:02:10,892 - ERROR - [Paramiko SSH Error] 127.0.0.1: Authentication failed.
+2025-06-05 00:02:39,253 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 00:02:39,617 - INFO - Authentication (publickey) failed.
+2025-06-05 00:02:39,628 - INFO - Authentication (password) successful!
+2025-06-05 00:02:39,628 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 00:02:40,689 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-05 00:02:40,690 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 00:02:40,706 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 00:02:41,081 - INFO - Authentication (publickey) failed.
+2025-06-05 00:02:41,091 - INFO - Authentication (password) successful!
+2025-06-05 00:02:41,091 - INFO - [+] Paramiko connected to 127.0.0.1 (juniper_junos)
+2025-06-05 00:02:42,161 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-05 00:02:42,161 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 00:02:50,679 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 00:02:51,047 - INFO - Authentication (publickey) failed.
+2025-06-05 00:02:51,058 - INFO - Authentication (password) failed.
+2025-06-05 00:02:51,058 - ERROR - [Paramiko SSH Error] 127.0.0.1: Authentication failed.
+2025-06-05 00:02:51,067 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 00:02:51,414 - INFO - Authentication (publickey) failed.
+2025-06-05 00:02:51,425 - INFO - Authentication (password) failed.
+2025-06-05 00:02:51,425 - ERROR - [Paramiko SSH Error] 127.0.0.1: Authentication failed.
+2025-06-05 00:11:13,362 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 00:11:13,742 - INFO - Authentication (publickey) failed.
+2025-06-05 00:11:13,753 - INFO - Authentication (password) failed.
+2025-06-05 00:11:13,753 - ERROR - [Paramiko SSH Error] 127.0.0.1: Authentication failed.
+2025-06-05 00:11:13,764 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 00:11:14,111 - INFO - Authentication (publickey) failed.
+2025-06-05 00:11:14,122 - INFO - Authentication (password) failed.
+2025-06-05 00:11:14,122 - ERROR - [Paramiko SSH Error] 127.0.0.1: Authentication failed.
+2025-06-05 00:11:25,489 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 00:11:25,860 - INFO - Authentication (publickey) failed.
+2025-06-05 00:11:25,871 - INFO - Authentication (password) failed.
+2025-06-05 00:11:25,871 - ERROR - [Paramiko SSH Error] 127.0.0.1: Authentication failed.
+2025-06-05 00:11:25,885 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 00:11:26,234 - INFO - Authentication (publickey) failed.
+2025-06-05 00:11:26,245 - INFO - Authentication (password) failed.
+2025-06-05 00:11:26,245 - ERROR - [Paramiko SSH Error] 127.0.0.1: Authentication failed.
+2025-06-05 09:46:00,453 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 09:46:00,715 - INFO - Authentication (publickey) failed.
+2025-06-05 09:46:00,724 - INFO - Authentication (password) successful!
+2025-06-05 09:46:00,724 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 09:46:01,791 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-05 09:46:01,791 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 09:46:01,810 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 09:46:02,079 - INFO - Authentication (publickey) failed.
+2025-06-05 09:46:02,089 - INFO - Authentication (password) successful!
+2025-06-05 09:46:02,089 - INFO - [+] Paramiko connected to 127.0.0.1 (juniper_junos)
+2025-06-05 09:46:03,156 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-05 09:46:03,157 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 11:27:57,368 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 11:27:57,750 - INFO - Authentication (publickey) failed.
+2025-06-05 11:27:57,762 - INFO - Authentication (password) successful!
+2025-06-05 11:27:57,762 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 11:27:57,810 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 11:27:57,810 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 11:27:57,810 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 11:28:02,837 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 11:28:03,204 - INFO - Authentication (publickey) failed.
+2025-06-05 11:28:03,215 - INFO - Authentication (password) successful!
+2025-06-05 11:28:03,215 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 11:28:03,265 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 11:28:03,265 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 11:28:03,266 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 11:28:08,294 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 11:28:08,671 - INFO - Authentication (publickey) failed.
+2025-06-05 11:28:08,683 - INFO - Authentication (password) successful!
+2025-06-05 11:28:08,683 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 11:28:08,729 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 11:28:08,729 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 11:28:08,729 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 11:28:41,999 - ERROR - [Paramiko SSH Error] 127.0.0.1: [Errno None] Unable to connect to port 22220 on 127.0.0.1
+2025-06-05 11:28:47,017 - ERROR - [Paramiko SSH Error] 127.0.0.1: [Errno None] Unable to connect to port 22220 on 127.0.0.1
+2025-06-05 11:28:52,035 - ERROR - [Paramiko SSH Error] 127.0.0.1: [Errno None] Unable to connect to port 22220 on 127.0.0.1
+2025-06-05 11:28:57,052 - ERROR - [Paramiko SSH Error] 127.0.0.1: [Errno None] Unable to connect to port 22220 on 127.0.0.1
+2025-06-05 12:36:11,064 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:36:11,433 - INFO - Authentication (publickey) failed.
+2025-06-05 12:36:11,442 - INFO - Authentication (password) successful!
+2025-06-05 12:36:11,442 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:36:11,491 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:36:11,491 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:36:12,513 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-05 12:36:12,514 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:36:12,532 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:36:12,907 - INFO - Authentication (publickey) failed.
+2025-06-05 12:36:12,916 - INFO - Authentication (password) successful!
+2025-06-05 12:36:12,916 - INFO - [+] Paramiko connected to 127.0.0.1 (juniper_junos)
+2025-06-05 12:36:12,963 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:36:12,963 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:36:13,985 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-05 12:36:13,986 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:36:26,043 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:36:26,404 - INFO - Authentication (publickey) failed.
+2025-06-05 12:36:26,413 - INFO - Authentication (password) successful!
+2025-06-05 12:36:26,413 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:36:26,464 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:36:26,464 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:36:26,464 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:36:31,495 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:36:31,871 - INFO - Authentication (publickey) failed.
+2025-06-05 12:36:31,880 - INFO - Authentication (password) successful!
+2025-06-05 12:36:31,880 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:36:31,928 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:36:31,928 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:36:31,928 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:36:36,959 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:36:37,324 - INFO - Authentication (publickey) failed.
+2025-06-05 12:36:37,333 - INFO - Authentication (password) successful!
+2025-06-05 12:36:37,333 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:36:37,380 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:36:37,380 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:36:37,381 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:36:42,412 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:36:42,786 - INFO - Authentication (publickey) failed.
+2025-06-05 12:36:42,794 - INFO - Authentication (password) successful!
+2025-06-05 12:36:42,794 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:36:42,841 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:36:42,841 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:36:42,842 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:36:47,873 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:36:48,244 - INFO - Authentication (publickey) failed.
+2025-06-05 12:36:48,253 - INFO - Authentication (password) successful!
+2025-06-05 12:36:48,253 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:36:48,304 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:36:48,304 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:36:48,304 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:36:53,339 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:36:53,699 - INFO - Authentication (publickey) failed.
+2025-06-05 12:36:53,708 - INFO - Authentication (password) successful!
+2025-06-05 12:36:53,708 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:36:53,755 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:36:53,755 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:36:53,755 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:36:58,789 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:36:59,157 - INFO - Authentication (publickey) failed.
+2025-06-05 12:36:59,160 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:36:59,167 - INFO - Authentication (password) successful!
+2025-06-05 12:36:59,167 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:36:59,493 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:36:59,493 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:36:59,494 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:36:59,503 - INFO - Authentication (publickey) failed.
+2025-06-05 12:36:59,511 - INFO - Authentication (password) successful!
+2025-06-05 12:36:59,511 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:00,060 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-05 12:37:00,061 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:37:04,522 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:37:04,881 - INFO - Authentication (publickey) failed.
+2025-06-05 12:37:04,890 - INFO - Authentication (password) successful!
+2025-06-05 12:37:04,890 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:04,938 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:37:04,938 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:37:04,939 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:37:09,968 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:37:10,331 - INFO - Authentication (publickey) failed.
+2025-06-05 12:37:10,341 - INFO - Authentication (password) successful!
+2025-06-05 12:37:10,341 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:10,389 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:37:10,389 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:37:10,389 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:37:15,420 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:37:15,795 - INFO - Authentication (publickey) failed.
+2025-06-05 12:37:15,804 - INFO - Authentication (password) successful!
+2025-06-05 12:37:15,804 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:15,852 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:37:15,852 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:37:15,852 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:37:20,880 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:37:21,250 - INFO - Authentication (publickey) failed.
+2025-06-05 12:37:21,260 - INFO - Authentication (password) successful!
+2025-06-05 12:37:21,260 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:21,305 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:37:21,305 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:37:21,305 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:37:25,916 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:37:26,291 - INFO - Authentication (publickey) failed.
+2025-06-05 12:37:26,300 - INFO - Authentication (password) successful!
+2025-06-05 12:37:26,300 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:26,324 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:37:26,671 - INFO - Authentication (publickey) failed.
+2025-06-05 12:37:26,680 - INFO - Authentication (password) successful!
+2025-06-05 12:37:26,680 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:26,729 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:37:26,730 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:37:26,730 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:37:27,164 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-05 12:37:27,164 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:37:31,760 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:37:32,125 - INFO - Authentication (publickey) failed.
+2025-06-05 12:37:32,134 - INFO - Authentication (password) successful!
+2025-06-05 12:37:32,134 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:32,182 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:37:32,182 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:37:32,182 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:37:37,215 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:37:37,574 - INFO - Authentication (publickey) failed.
+2025-06-05 12:37:37,583 - INFO - Authentication (password) successful!
+2025-06-05 12:37:37,583 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:37,632 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:37:37,632 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:37:37,632 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:37:42,666 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:37:43,034 - INFO - Authentication (publickey) failed.
+2025-06-05 12:37:43,043 - INFO - Authentication (password) successful!
+2025-06-05 12:37:43,043 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:43,092 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:37:43,092 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:37:43,092 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:37:48,126 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:37:48,481 - INFO - Authentication (publickey) failed.
+2025-06-05 12:37:48,491 - INFO - Authentication (password) successful!
+2025-06-05 12:37:48,491 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:48,539 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:37:48,539 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:37:48,539 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:37:53,565 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:37:53,931 - INFO - Authentication (publickey) failed.
+2025-06-05 12:37:53,940 - INFO - Authentication (password) successful!
+2025-06-05 12:37:53,940 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:37:53,989 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: bash: line 1: show: command not found
+2025-06-05 12:37:53,989 - INFO - [Command - Paramiko] 127.0.0.1: show running-config
+2025-06-05 12:37:53,989 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:43:37,217 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:43:37,590 - INFO - Authentication (publickey) failed.
+2025-06-05 12:43:37,599 - INFO - Authentication (password) successful!
+2025-06-05 12:43:37,599 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:43:37,653 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:43:37,653 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:43:42,683 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:43:43,063 - INFO - Authentication (publickey) failed.
+2025-06-05 12:43:43,071 - INFO - Authentication (password) successful!
+2025-06-05 12:43:43,071 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:43:43,122 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:43:43,123 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:43:48,152 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:43:48,521 - INFO - Authentication (publickey) failed.
+2025-06-05 12:43:48,530 - INFO - Authentication (password) successful!
+2025-06-05 12:43:48,530 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:43:48,581 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:43:48,581 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:43:53,616 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:43:53,973 - INFO - Authentication (publickey) failed.
+2025-06-05 12:43:53,981 - INFO - Authentication (password) successful!
+2025-06-05 12:43:53,981 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:43:54,029 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:43:54,029 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:43:58,485 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:43:58,850 - INFO - Authentication (publickey) failed.
+2025-06-05 12:43:58,860 - INFO - Authentication (password) successful!
+2025-06-05 12:43:58,860 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:43:59,061 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:43:59,412 - INFO - [Config Sent - Paramiko] 127.0.0.1
+2025-06-05 12:43:59,413 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:43:59,435 - INFO - Authentication (publickey) failed.
+2025-06-05 12:43:59,451 - INFO - Authentication (password) successful!
+2025-06-05 12:43:59,452 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:43:59,501 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:43:59,501 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:44:04,528 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:44:04,902 - INFO - Authentication (publickey) failed.
+2025-06-05 12:44:04,911 - INFO - Authentication (password) successful!
+2025-06-05 12:44:04,912 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:44:04,959 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:44:04,959 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:44:09,991 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:44:10,380 - INFO - Authentication (publickey) failed.
+2025-06-05 12:44:10,389 - INFO - Authentication (password) successful!
+2025-06-05 12:44:10,389 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:44:10,437 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:44:10,437 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:44:15,469 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:44:15,843 - INFO - Authentication (publickey) failed.
+2025-06-05 12:44:15,852 - INFO - Authentication (password) successful!
+2025-06-05 12:44:15,852 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:44:15,899 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:44:15,900 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:44:20,927 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:44:21,308 - INFO - Authentication (publickey) failed.
+2025-06-05 12:44:21,324 - INFO - Authentication (password) successful!
+2025-06-05 12:44:21,324 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:44:21,372 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:44:21,372 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:44:26,393 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:44:26,762 - INFO - Authentication (publickey) failed.
+2025-06-05 12:44:26,771 - INFO - Authentication (password) successful!
+2025-06-05 12:44:26,771 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:44:26,819 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:44:26,820 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:44:31,848 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:44:32,224 - INFO - Authentication (publickey) failed.
+2025-06-05 12:44:32,234 - INFO - Authentication (password) successful!
+2025-06-05 12:44:32,234 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:44:32,284 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:44:32,284 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:44:37,313 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:44:37,691 - INFO - Authentication (publickey) failed.
+2025-06-05 12:44:37,700 - INFO - Authentication (password) successful!
+2025-06-05 12:44:37,700 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:44:37,751 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:44:37,752 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:44:42,779 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:44:44,670 - INFO - Authentication (publickey) failed.
+2025-06-05 12:44:44,680 - INFO - Authentication (password) successful!
+2025-06-05 12:44:44,680 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:44:44,731 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:44:44,732 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:44:49,759 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:44:51,670 - INFO - Authentication (publickey) failed.
+2025-06-05 12:44:51,680 - INFO - Authentication (password) successful!
+2025-06-05 12:44:51,681 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:44:51,732 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:44:51,733 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:44:56,760 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:44:58,688 - INFO - Authentication (publickey) failed.
+2025-06-05 12:44:58,697 - INFO - Authentication (password) successful!
+2025-06-05 12:44:58,698 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:44:58,752 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:44:58,753 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:45:03,780 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:45:05,237 - INFO - Authentication (publickey) failed.
+2025-06-05 12:45:05,247 - INFO - Authentication (password) successful!
+2025-06-05 12:45:05,248 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:45:05,299 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:45:05,300 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:45:10,330 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:45:12,265 - INFO - Authentication (publickey) failed.
+2025-06-05 12:45:12,275 - INFO - Authentication (password) successful!
+2025-06-05 12:45:12,276 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:45:12,325 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:45:12,326 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:45:17,348 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:45:19,161 - INFO - Authentication (publickey) failed.
+2025-06-05 12:45:19,171 - INFO - Authentication (password) successful!
+2025-06-05 12:45:19,171 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:45:19,223 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:45:19,224 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:45:24,249 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:45:25,991 - INFO - Authentication (publickey) failed.
+2025-06-05 12:45:26,002 - INFO - Authentication (password) successful!
+2025-06-05 12:45:26,003 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:45:26,053 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:45:26,054 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:45:31,075 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:45:32,818 - INFO - Authentication (publickey) failed.
+2025-06-05 12:45:32,828 - INFO - Authentication (password) successful!
+2025-06-05 12:45:32,828 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:45:32,878 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:45:32,879 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:45:37,898 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:45:39,591 - INFO - Authentication (publickey) failed.
+2025-06-05 12:45:39,601 - INFO - Authentication (password) successful!
+2025-06-05 12:45:39,601 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:45:39,649 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:45:39,650 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:45:44,678 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:45:46,347 - INFO - Authentication (publickey) failed.
+2025-06-05 12:45:46,359 - INFO - Authentication (password) successful!
+2025-06-05 12:45:46,359 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:45:46,410 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:45:46,411 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:45:51,438 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:45:52,830 - INFO - Authentication (publickey) failed.
+2025-06-05 12:45:52,839 - INFO - Authentication (password) successful!
+2025-06-05 12:45:52,839 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:45:52,894 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:45:52,894 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:45:57,923 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:45:59,589 - INFO - Authentication (publickey) failed.
+2025-06-05 12:45:59,598 - INFO - Authentication (password) successful!
+2025-06-05 12:45:59,599 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:45:59,648 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:45:59,648 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:46:04,678 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:46:06,288 - INFO - Authentication (publickey) failed.
+2025-06-05 12:46:06,297 - INFO - Authentication (password) successful!
+2025-06-05 12:46:06,298 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:46:06,349 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:46:06,349 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:46:11,376 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:46:13,168 - INFO - Authentication (publickey) failed.
+2025-06-05 12:46:13,178 - INFO - Authentication (password) successful!
+2025-06-05 12:46:13,178 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:46:13,226 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:46:13,226 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:46:18,254 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:46:20,061 - INFO - Authentication (publickey) failed.
+2025-06-05 12:46:20,079 - INFO - Authentication (password) successful!
+2025-06-05 12:46:20,080 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:46:20,135 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:46:20,136 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:46:25,160 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:46:26,906 - INFO - Authentication (publickey) failed.
+2025-06-05 12:46:26,917 - INFO - Authentication (password) successful!
+2025-06-05 12:46:26,917 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:46:26,968 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:46:26,970 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:46:31,996 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:46:33,813 - INFO - Authentication (publickey) failed.
+2025-06-05 12:46:33,824 - INFO - Authentication (password) successful!
+2025-06-05 12:46:33,824 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:46:33,877 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:46:33,878 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:46:38,904 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:46:40,837 - INFO - Authentication (publickey) failed.
+2025-06-05 12:46:40,854 - INFO - Authentication (password) successful!
+2025-06-05 12:46:40,854 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:46:40,906 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:46:40,906 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:46:45,924 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:46:48,036 - INFO - Authentication (publickey) failed.
+2025-06-05 12:46:48,047 - INFO - Authentication (password) successful!
+2025-06-05 12:46:48,047 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:46:48,098 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:46:48,099 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:46:53,126 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:46:55,147 - INFO - Authentication (publickey) failed.
+2025-06-05 12:46:55,157 - INFO - Authentication (password) successful!
+2025-06-05 12:46:55,157 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:46:55,210 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:46:55,210 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:47:00,237 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:47:02,224 - INFO - Authentication (publickey) failed.
+2025-06-05 12:47:02,233 - INFO - Authentication (password) successful!
+2025-06-05 12:47:02,234 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:47:02,285 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:47:02,286 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:47:07,315 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:47:09,443 - INFO - Authentication (publickey) failed.
+2025-06-05 12:47:09,452 - INFO - Authentication (password) successful!
+2025-06-05 12:47:09,453 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:47:09,506 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:47:09,507 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:47:14,533 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:47:16,464 - INFO - Authentication (publickey) failed.
+2025-06-05 12:47:16,473 - INFO - Authentication (password) successful!
+2025-06-05 12:47:16,474 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:47:16,526 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:47:16,526 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:47:21,551 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:47:23,390 - INFO - Authentication (publickey) failed.
+2025-06-05 12:47:23,400 - INFO - Authentication (password) successful!
+2025-06-05 12:47:23,401 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:47:23,455 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:47:23,456 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:47:28,478 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:47:30,213 - INFO - Authentication (publickey) failed.
+2025-06-05 12:47:30,224 - INFO - Authentication (password) successful!
+2025-06-05 12:47:30,224 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:47:30,279 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:47:30,280 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:47:35,303 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:47:36,864 - INFO - Authentication (publickey) failed.
+2025-06-05 12:47:36,876 - INFO - Authentication (password) successful!
+2025-06-05 12:47:36,877 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:47:36,927 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:47:36,928 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:47:41,955 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:47:43,673 - INFO - Authentication (publickey) failed.
+2025-06-05 12:47:43,692 - INFO - Authentication (password) successful!
+2025-06-05 12:47:43,693 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:47:43,742 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:47:43,743 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:47:52,406 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:47:52,798 - INFO - Authentication (publickey) failed.
+2025-06-05 12:47:52,816 - INFO - Authentication (password) successful!
+2025-06-05 12:47:52,816 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:47:52,867 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:47:52,867 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:47:57,884 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:47:58,248 - INFO - Authentication (publickey) failed.
+2025-06-05 12:47:58,265 - INFO - Authentication (password) successful!
+2025-06-05 12:47:58,265 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:47:58,313 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:47:58,314 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:48:03,342 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:48:03,722 - INFO - Authentication (publickey) failed.
+2025-06-05 12:48:03,731 - INFO - Authentication (password) successful!
+2025-06-05 12:48:03,731 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:48:03,757 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:48:04,100 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:48:04,100 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:48:04,108 - INFO - Authentication (publickey) failed.
+2025-06-05 12:48:04,117 - INFO - Authentication (password) successful!
+2025-06-05 12:48:04,117 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:48:04,169 - INFO - [Command - Paramiko] 127.0.0.1: echo 'bash: line 1: show: command not found
+' > /tmp/rollback_config.sh
+2025-06-05 12:48:04,173 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: /tmp/rollback_config.sh: line 1: bash:: command not found
+2025-06-05 12:48:04,173 - INFO - [Command - Paramiko] 127.0.0.1: bash /tmp/rollback_config.sh
+2025-06-05 12:48:04,174 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:48:09,131 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:48:09,504 - INFO - Authentication (publickey) failed.
+2025-06-05 12:48:09,513 - INFO - Authentication (password) successful!
+2025-06-05 12:48:09,513 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:48:09,561 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:48:09,562 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:48:14,592 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:48:14,970 - INFO - Authentication (publickey) failed.
+2025-06-05 12:48:14,979 - INFO - Authentication (password) successful!
+2025-06-05 12:48:14,979 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:48:15,029 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:48:15,029 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:48:20,058 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:48:20,432 - INFO - Authentication (publickey) failed.
+2025-06-05 12:48:20,441 - INFO - Authentication (password) successful!
+2025-06-05 12:48:20,441 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:48:20,491 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:48:20,491 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:48:25,520 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:48:25,897 - INFO - Authentication (publickey) failed.
+2025-06-05 12:48:25,907 - INFO - Authentication (password) successful!
+2025-06-05 12:48:25,907 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:48:25,957 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:48:25,957 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:48:30,987 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:48:31,366 - INFO - Authentication (publickey) failed.
+2025-06-05 12:48:31,375 - INFO - Authentication (password) successful!
+2025-06-05 12:48:31,375 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:48:31,424 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:48:31,424 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:48:38,222 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:48:38,589 - INFO - Authentication (publickey) failed.
+2025-06-05 12:48:38,597 - INFO - Authentication (password) successful!
+2025-06-05 12:48:38,597 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:48:38,649 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:48:38,649 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:48:43,679 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:48:44,051 - INFO - Authentication (publickey) failed.
+2025-06-05 12:48:44,060 - INFO - Authentication (password) successful!
+2025-06-05 12:48:44,060 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:48:44,107 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:48:44,107 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:48:47,281 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:48:47,646 - INFO - Authentication (publickey) failed.
+2025-06-05 12:48:47,654 - INFO - Authentication (password) successful!
+2025-06-05 12:48:47,654 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:48:47,706 - INFO - [Command - Paramiko] 127.0.0.1: echo 'bash: line 1: show: command not found
+' > /tmp/rollback_config.sh
+2025-06-05 12:48:47,711 - WARNING - [Command STDERR - Paramiko] 127.0.0.1: /tmp/rollback_config.sh: line 1: bash:: command not found
+2025-06-05 12:48:47,711 - INFO - [Command - Paramiko] 127.0.0.1: bash /tmp/rollback_config.sh
+2025-06-05 12:48:47,711 - INFO - [-] Paramiko disconnected from 127.0.0.1
+2025-06-05 12:48:49,126 - INFO - Connected (version 2.0, client OpenSSH_9.9)
+2025-06-05 12:48:49,494 - INFO - Authentication (publickey) failed.
+2025-06-05 12:48:49,504 - INFO - Authentication (password) successful!
+2025-06-05 12:48:49,504 - INFO - [+] Paramiko connected to 127.0.0.1 (generic_ssh)
+2025-06-05 12:48:49,551 - INFO - [Command - Paramiko] 127.0.0.1: ip a
+2025-06-05 12:48:49,551 - INFO - [-] Paramiko disconnected from 127.0.0.1

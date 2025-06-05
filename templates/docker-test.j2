@@ -1,0 +1,8 @@
+# Basic device configuration
+echo "Applying configuration for {{ device.hostname }}"
+echo "Device IP: {{ device.ip }}"
+echo "Setting hostname to {{ device.hostname }}"
+hostname {{ device.hostname }}
+{% if custom_message %}
+echo "Custom message: {{ custom_message }}"
+{% endif %}

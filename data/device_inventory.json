@@ -1,0 +1,9 @@
+[
+    {
+      "device_type": "cisco_ios",
+      "host": "192.168.1.1",
+      "username": "admin",
+      "password": "admin123",
+      "secret": "enable123"
+    }
+  ]
