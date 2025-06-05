@@ -172,3 +172,10 @@ class SSHClient:
 
     def is_connected(self):
         return self.connection is not None or self.client is not None
+    
+    def test_connection(self):
+            """Test SSH connectivity without running any command."""
+            if self.connect():
+                self.disconnect()
+                return True
+            return False
